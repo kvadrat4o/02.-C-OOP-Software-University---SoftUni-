@@ -1,0 +1,6 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\08. Custom Comparator\bin\Debug\_08.Custom_Comparator.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\08. Custom Comparator\obj\Debug\08. Custom Comparator.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\08. Custom Comparator\obj\Debug\_08.Custom_Comparator.pdb

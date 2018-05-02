@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\03. Jedi Galaxy\bin\Debug\_03.Jedi_Galaxy.exe.config
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\03. Jedi Galaxy\bin\Debug\_03.Jedi_Galaxy.exe
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\03. Jedi Galaxy\bin\Debug\_03.Jedi_Galaxy.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\03. Jedi Galaxy\obj\Debug\03. Jedi Galaxy.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\03. Jedi Galaxy\obj\Debug\03. Jedi Galaxy.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\03. Jedi Galaxy\obj\Debug\_03.Jedi_Galaxy.exe
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\03. Jedi Galaxy\obj\Debug\_03.Jedi_Galaxy.pdb

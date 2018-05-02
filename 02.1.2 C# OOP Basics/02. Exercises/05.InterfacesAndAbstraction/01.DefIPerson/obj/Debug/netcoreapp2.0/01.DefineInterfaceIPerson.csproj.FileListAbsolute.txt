@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.DefineInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineInterfaceIPerson.pdb

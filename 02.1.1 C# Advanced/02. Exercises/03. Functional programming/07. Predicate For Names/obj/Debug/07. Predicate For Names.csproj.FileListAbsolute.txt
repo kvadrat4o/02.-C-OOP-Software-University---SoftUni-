@@ -1,0 +1,6 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\07. Predicate For Names\obj\Debug\07. Predicate For Names.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.pdb

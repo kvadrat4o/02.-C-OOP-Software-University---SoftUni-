@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\_4.Pascal_Triangle.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\4. Pascal Triangle.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\4. Pascal Triangle.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\_4.Pascal_Triangle.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\_4.Pascal_Triangle.pdb

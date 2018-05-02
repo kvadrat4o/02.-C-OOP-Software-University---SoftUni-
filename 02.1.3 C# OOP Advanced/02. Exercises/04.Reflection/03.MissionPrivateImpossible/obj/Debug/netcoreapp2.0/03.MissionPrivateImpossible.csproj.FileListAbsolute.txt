@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.csprojResolveAssemblyReference.cache

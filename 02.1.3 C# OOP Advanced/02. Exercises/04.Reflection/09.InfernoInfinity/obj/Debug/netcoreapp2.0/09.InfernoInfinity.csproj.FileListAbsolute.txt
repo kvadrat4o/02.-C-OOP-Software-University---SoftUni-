@@ -1,0 +1,10 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\bin\Debug\netcoreapp2.0\09.InfernoInfinity.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\bin\Debug\netcoreapp2.0\09.InfernoInfinity.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\bin\Debug\netcoreapp2.0\09.InfernoInfinity.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\bin\Debug\netcoreapp2.0\09.InfernoInfinity.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\bin\Debug\netcoreapp2.0\09.InfernoInfinity.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\obj\Debug\netcoreapp2.0\09.InfernoInfinity.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\obj\Debug\netcoreapp2.0\09.InfernoInfinity.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\obj\Debug\netcoreapp2.0\09.InfernoInfinity.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\obj\Debug\netcoreapp2.0\09.InfernoInfinity.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\09.InfernoInfinity\obj\Debug\netcoreapp2.0\09.InfernoInfinity.pdb

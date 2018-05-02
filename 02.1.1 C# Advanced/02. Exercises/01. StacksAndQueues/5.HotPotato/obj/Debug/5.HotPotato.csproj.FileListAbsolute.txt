@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\5.HotPotato\bin\Debug\5.HotPotato.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\5.HotPotato\bin\Debug\5.HotPotato.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\5.HotPotato\bin\Debug\5.HotPotato.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\5.HotPotato\obj\Debug\5.HotPotato.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\5.HotPotato\obj\Debug\5.HotPotato.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\5.HotPotato\obj\Debug\5.HotPotato.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\5.HotPotato\obj\Debug\5.HotPotato.pdb

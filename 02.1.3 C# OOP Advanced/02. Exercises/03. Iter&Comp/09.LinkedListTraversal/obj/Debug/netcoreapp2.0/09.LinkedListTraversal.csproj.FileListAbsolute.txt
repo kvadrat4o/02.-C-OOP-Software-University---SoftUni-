@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.0\09.LinkedListTraversal.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\03. Iterators and Comparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.0\09.LinkedListTraversal.csprojResolveAssemblyReference.cache

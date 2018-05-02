@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.pdb

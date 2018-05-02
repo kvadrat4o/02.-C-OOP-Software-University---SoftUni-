@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\bin\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\09.CollectionHierarchy\obj\Debug\netcoreapp2.0\09.CollectionHierarchy.pdb

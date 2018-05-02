@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Cubic Artillery", "01. Cubic Artillery\01. Cubic Artillery.csproj", "{5ADDC372-FBFB-4D44-B4B4-387A2DB69C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Cubic's Rube", "02. Cubic's Rube\02. Cubic's Rube.csproj", "{91F51A25-7389-44C6-BD81-288A159B90ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADDC372-FBFB-4D44-B4B4-387A2DB69C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADDC372-FBFB-4D44-B4B4-387A2DB69C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADDC372-FBFB-4D44-B4B4-387A2DB69C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADDC372-FBFB-4D44-B4B4-387A2DB69C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F51A25-7389-44C6-BD81-288A159B90ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F51A25-7389-44C6-BD81-288A159B90ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F51A25-7389-44C6-BD81-288A159B90ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F51A25-7389-44C6-BD81-288A159B90ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73F7C6F4-4164-4B58-A049-1F8E200A3BEE}
+	EndGlobalSection
+EndGlobal

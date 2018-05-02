@@ -1,0 +1,6 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\04. Add VAT\bin\Debug\_04.Add_VAT.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\04. Add VAT\bin\Debug\_04.Add_VAT.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\04. Add VAT\bin\Debug\_04.Add_VAT.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\04. Add VAT\obj\Debug\04. Add VAT.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\04. Add VAT\obj\Debug\_04.Add_VAT.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\04. Add VAT\obj\Debug\_04.Add_VAT.pdb

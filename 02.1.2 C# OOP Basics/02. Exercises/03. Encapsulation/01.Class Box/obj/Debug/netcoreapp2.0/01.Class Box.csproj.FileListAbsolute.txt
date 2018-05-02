@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\obj\Debug\netcoreapp2.0\01.Class Box.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\obj\Debug\netcoreapp2.0\01.Class Box.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\obj\Debug\netcoreapp2.0\01.Class Box.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\obj\Debug\netcoreapp2.0\01.Class Box.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\bin\Debug\netcoreapp2.0\01.Class Box.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\bin\Debug\netcoreapp2.0\01.Class Box.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\bin\Debug\netcoreapp2.0\01.Class Box.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\bin\Debug\netcoreapp2.0\01.Class Box.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\bin\Debug\netcoreapp2.0\01.Class Box.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\obj\Debug\netcoreapp2.0\01.Class Box.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\03. Encapsulation\01.Class Box\obj\Debug\netcoreapp2.0\01.Class Box.pdb

@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.pdb

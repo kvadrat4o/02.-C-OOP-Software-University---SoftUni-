@@ -1,0 +1,6 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\3.DecimalToBinaryConverter\bin\Debug\3.DecimalToBinaryConverter.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\3.DecimalToBinaryConverter\bin\Debug\3.DecimalToBinaryConverter.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\3.DecimalToBinaryConverter\bin\Debug\3.DecimalToBinaryConverter.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\3.DecimalToBinaryConverter\obj\Debug\3.DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\3.DecimalToBinaryConverter\obj\Debug\3.DecimalToBinaryConverter.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\3.DecimalToBinaryConverter\obj\Debug\3.DecimalToBinaryConverter.pdb

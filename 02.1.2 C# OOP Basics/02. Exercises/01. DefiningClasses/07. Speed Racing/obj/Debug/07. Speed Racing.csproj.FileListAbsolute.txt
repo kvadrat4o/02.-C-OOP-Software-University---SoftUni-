@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\01. DefiningClasses\07. Speed Racing\bin\Debug\_07.Speed_Racing.exe.config
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\01. DefiningClasses\07. Speed Racing\bin\Debug\_07.Speed_Racing.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\01. DefiningClasses\07. Speed Racing\bin\Debug\_07.Speed_Racing.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\01. DefiningClasses\07. Speed Racing\obj\Debug\07. Speed Racing.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\01. DefiningClasses\07. Speed Racing\obj\Debug\07. Speed Racing.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\01. DefiningClasses\07. Speed Racing\obj\Debug\_07.Speed_Racing.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\01. DefiningClasses\07. Speed Racing\obj\Debug\_07.Speed_Racing.pdb

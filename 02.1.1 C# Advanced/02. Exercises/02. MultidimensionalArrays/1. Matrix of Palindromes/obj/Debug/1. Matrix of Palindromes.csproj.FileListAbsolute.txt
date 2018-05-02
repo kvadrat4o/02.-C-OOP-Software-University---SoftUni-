@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Matrix of Palindromes\bin\Debug\_1.Matrix_of_Palindromes.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\1. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\1. Matrix of Palindromes.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\_1.Matrix_of_Palindromes.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\_1.Matrix_of_Palindromes.pdb

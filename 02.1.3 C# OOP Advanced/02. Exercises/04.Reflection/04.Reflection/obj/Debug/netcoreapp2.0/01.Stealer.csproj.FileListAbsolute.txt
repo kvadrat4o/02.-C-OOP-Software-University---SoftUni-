@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\bin\Debug\netcoreapp2.0\01.Stealer.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\bin\Debug\netcoreapp2.0\01.Stealer.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\bin\Debug\netcoreapp2.0\01.Stealer.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\bin\Debug\netcoreapp2.0\01.Stealer.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\bin\Debug\netcoreapp2.0\01.Stealer.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\obj\Debug\netcoreapp2.0\01.Stealer.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\obj\Debug\netcoreapp2.0\01.Stealer.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\obj\Debug\netcoreapp2.0\01.Stealer.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\obj\Debug\netcoreapp2.0\01.Stealer.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\obj\Debug\netcoreapp2.0\01.Stealer.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\04.Reflection\obj\Debug\netcoreapp2.0\01.Stealer.pdb

@@ -1,0 +1,10 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\bin\Debug\netcoreapp2.0\06.CodeTracker.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\bin\Debug\netcoreapp2.0\06.CodeTracker.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\bin\Debug\netcoreapp2.0\06.CodeTracker.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\bin\Debug\netcoreapp2.0\06.CodeTracker.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\bin\Debug\netcoreapp2.0\06.CodeTracker.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\obj\Debug\netcoreapp2.0\06.CodeTracker.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\obj\Debug\netcoreapp2.0\06.CodeTracker.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\obj\Debug\netcoreapp2.0\06.CodeTracker.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\obj\Debug\netcoreapp2.0\06.CodeTracker.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\06.CodeTracker\obj\Debug\netcoreapp2.0\06.CodeTracker.pdb

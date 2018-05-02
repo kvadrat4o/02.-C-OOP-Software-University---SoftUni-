@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\bin\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\10.ExplicitInterfaces\obj\Debug\netcoreapp2.0\10.ExplicitInterfaces.pdb

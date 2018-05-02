@@ -1,0 +1,17 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\01.Database.Tests.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\01.Database.Tests.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\01.Database.Tests.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\obj\Debug\netcoreapp2.0\01.Database.Tests.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\obj\Debug\netcoreapp2.0\01.Database.Tests.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\obj\Debug\netcoreapp2.0\01.Database.Tests.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\obj\Debug\netcoreapp2.0\01.Database.Tests.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\obj\Debug\netcoreapp2.0\01.Database.Tests.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\obj\Debug\netcoreapp2.0\01.Database.Tests.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\01.Database.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\01.Database.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\01.Database.Tests.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\01.Database.Tests\bin\Debug\netcoreapp2.0\01.Database.Tests.runtimeconfig.dev.json

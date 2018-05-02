@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\04. Problem4\bin\Debug\_04.Problem4.exe.config
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\04. Problem4\bin\Debug\_04.Problem4.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\04. Problem4\bin\Debug\_04.Problem4.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\04. Problem4\obj\Debug\04. Hit List.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\04. Problem4\obj\Debug\04. Hit List.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\04. Problem4\obj\Debug\_04.Problem4.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\04. Problem4\obj\Debug\_04.Problem4.pdb

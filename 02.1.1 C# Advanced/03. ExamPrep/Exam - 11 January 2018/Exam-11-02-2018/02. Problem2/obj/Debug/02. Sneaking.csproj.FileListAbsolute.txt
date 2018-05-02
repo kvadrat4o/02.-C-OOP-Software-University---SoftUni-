@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\02. Problem2\bin\Debug\_02.Problem2.exe.config
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\02. Problem2\bin\Debug\_02.Problem2.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\02. Problem2\bin\Debug\_02.Problem2.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\02. Problem2\obj\Debug\02. Sneaking.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\02. Problem2\obj\Debug\_02.Problem2.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\02. Problem2\obj\Debug\_02.Problem2.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam 11 June 2018\Exam-11-02-2018\02. Problem2\obj\Debug\02. Sneaking.csprojResolveAssemblyReference.cache

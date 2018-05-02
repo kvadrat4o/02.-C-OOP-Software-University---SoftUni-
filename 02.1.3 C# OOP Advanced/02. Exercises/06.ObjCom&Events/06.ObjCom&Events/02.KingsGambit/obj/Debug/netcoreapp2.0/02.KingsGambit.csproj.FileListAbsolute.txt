@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\bin\Debug\netcoreapp2.0\02.KingsGambit.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\06.ObjectCommunicationAndEvents\06.ObjectCommunicationAndEvents\02.KingsGambit\obj\Debug\netcoreapp2.0\02.KingsGambit.pdb

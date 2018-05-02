@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam - 16 July 2017\MinedraftFW\bin\Debug\MinedraftFW.exe.config
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam - 16 July 2017\MinedraftFW\bin\Debug\MinedraftFW.exe
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam - 16 July 2017\MinedraftFW\bin\Debug\MinedraftFW.pdb
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam - 16 July 2017\MinedraftFW\obj\Debug\MinedraftFW.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam - 16 July 2017\MinedraftFW\obj\Debug\MinedraftFW.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam - 16 July 2017\MinedraftFW\obj\Debug\MinedraftFW.exe
+E:\Coding\SoftUni\C# OOP Basics\Exams\Exam - 16 July 2017\MinedraftFW\obj\Debug\MinedraftFW.pdb

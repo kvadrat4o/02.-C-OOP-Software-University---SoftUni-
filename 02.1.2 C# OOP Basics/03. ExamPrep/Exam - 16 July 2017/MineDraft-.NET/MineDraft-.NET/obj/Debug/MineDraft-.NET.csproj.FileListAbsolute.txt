@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 16 July 2017\MineDraft-.NET\MineDraft-.NET\bin\Debug\MineDraft-.NET.exe.config
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 16 July 2017\MineDraft-.NET\MineDraft-.NET\bin\Debug\MineDraft-.NET.exe
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 16 July 2017\MineDraft-.NET\MineDraft-.NET\bin\Debug\MineDraft-.NET.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 16 July 2017\MineDraft-.NET\MineDraft-.NET\obj\Debug\MineDraft-.NET.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 16 July 2017\MineDraft-.NET\MineDraft-.NET\obj\Debug\MineDraft-.NET.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 16 July 2017\MineDraft-.NET\MineDraft-.NET\obj\Debug\MineDraft-.NET.exe
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 16 July 2017\MineDraft-.NET\MineDraft-.NET\obj\Debug\MineDraft-.NET.pdb

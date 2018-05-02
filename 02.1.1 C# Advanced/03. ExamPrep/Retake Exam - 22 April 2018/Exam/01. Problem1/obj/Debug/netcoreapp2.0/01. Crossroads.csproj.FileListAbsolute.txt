@@ -1,0 +1,10 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\bin\Debug\netcoreapp2.0\01. Crossroads.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\bin\Debug\netcoreapp2.0\01. Crossroads.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\bin\Debug\netcoreapp2.0\01. Crossroads.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\bin\Debug\netcoreapp2.0\01. Crossroads.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\bin\Debug\netcoreapp2.0\01. Crossroads.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\obj\Debug\netcoreapp2.0\01. Crossroads.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\obj\Debug\netcoreapp2.0\01. Crossroads.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\obj\Debug\netcoreapp2.0\01. Crossroads.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\obj\Debug\netcoreapp2.0\01. Crossroads.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# Advanced\2018\ExamPrep\Exam\Exam\01. Problem1\obj\Debug\netcoreapp2.0\01. Crossroads.pdb

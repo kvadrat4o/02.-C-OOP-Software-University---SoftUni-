@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\01. Sort even numbers\bin\Debug\_01.Sort_even_numbers.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\01. Sort even numbers\bin\Debug\_01.Sort_even_numbers.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\01. Sort even numbers\bin\Debug\_01.Sort_even_numbers.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\01. Sort even numbers\obj\Debug\01. Sort even numbers.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\01. Sort even numbers\obj\Debug\01. Sort even numbers.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\01. Sort even numbers\obj\Debug\_01.Sort_even_numbers.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\01. Sort even numbers\obj\Debug\_01.Sort_even_numbers.pdb

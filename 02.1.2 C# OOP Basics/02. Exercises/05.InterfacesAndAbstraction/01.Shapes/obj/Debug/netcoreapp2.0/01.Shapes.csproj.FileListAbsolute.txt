@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\bin\Debug\netcoreapp2.0\01.Shapes.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\01.Shapes\obj\Debug\netcoreapp2.0\01.Shapes.pdb

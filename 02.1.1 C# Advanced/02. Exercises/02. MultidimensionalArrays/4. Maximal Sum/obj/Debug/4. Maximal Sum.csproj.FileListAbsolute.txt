@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Maximal Sum\obj\Debug\4. Maximal Sum.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Maximal Sum\obj\Debug\4. Maximal Sum.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.pdb

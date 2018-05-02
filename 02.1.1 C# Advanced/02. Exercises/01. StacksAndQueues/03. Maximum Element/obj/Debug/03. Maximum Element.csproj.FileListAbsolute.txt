@@ -1,0 +1,6 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\03. Maximum Element\bin\Debug\_03.Maximum_Element.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\03. Maximum Element\bin\Debug\_03.Maximum_Element.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\03. Maximum Element\bin\Debug\_03.Maximum_Element.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\03. Maximum Element\obj\Debug\03. Maximum Element.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\03. Maximum Element\obj\Debug\_03.Maximum_Element.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\03. Maximum Element\obj\Debug\_03.Maximum_Element.pdb

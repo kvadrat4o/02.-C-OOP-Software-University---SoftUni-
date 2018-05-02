@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\10. Predicate Party!\bin\Debug\_10.Predicate_Party_.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\10. Predicate Party!\obj\Debug\10. Predicate Party!.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\10. Predicate Party!\obj\Debug\10. Predicate Party!.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\10. Predicate Party!\obj\Debug\_10.Predicate_Party_.pdb

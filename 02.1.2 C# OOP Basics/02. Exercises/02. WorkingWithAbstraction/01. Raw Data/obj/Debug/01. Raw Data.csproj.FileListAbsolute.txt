@@ -1,0 +1,6 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\01. Raw Data\bin\Debug\_01.Raw_Data.exe.config
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\01. Raw Data\bin\Debug\_01.Raw_Data.exe
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\01. Raw Data\bin\Debug\_01.Raw_Data.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\01. Raw Data\obj\Debug\01. Raw Data.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\01. Raw Data\obj\Debug\_01.Raw_Data.exe
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\01. Raw Data\obj\Debug\_01.Raw_Data.pdb

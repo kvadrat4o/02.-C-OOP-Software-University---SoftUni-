@@ -1,0 +1,6 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\03. Count Uppercase Words\bin\Debug\_03.Count_Uppercase_Words.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\03. Count Uppercase Words\bin\Debug\_03.Count_Uppercase_Words.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\03. Count Uppercase Words\bin\Debug\_03.Count_Uppercase_Words.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\03. Count Uppercase Words\obj\Debug\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\03. Count Uppercase Words\obj\Debug\_03.Count_Uppercase_Words.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\03. Count Uppercase Words\obj\Debug\_03.Count_Uppercase_Words.pdb

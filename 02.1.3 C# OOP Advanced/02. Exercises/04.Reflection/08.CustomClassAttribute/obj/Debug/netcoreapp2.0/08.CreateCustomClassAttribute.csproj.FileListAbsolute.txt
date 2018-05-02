@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.pdb

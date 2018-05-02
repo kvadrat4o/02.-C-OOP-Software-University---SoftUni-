@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\10. Simple Text Editor\bin\Debug\_10.Simple_Text_Editor.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\10. Simple Text Editor\bin\Debug\_10.Simple_Text_Editor.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\10. Simple Text Editor\bin\Debug\_10.Simple_Text_Editor.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\10. Simple Text Editor\obj\Debug\10. Simple Text Editor.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\10. Simple Text Editor\obj\Debug\10. Simple Text Editor.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\10. Simple Text Editor\obj\Debug\_10.Simple_Text_Editor.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Stacks and Queues - Lab\10. Simple Text Editor\obj\Debug\_10.Simple_Text_Editor.pdb

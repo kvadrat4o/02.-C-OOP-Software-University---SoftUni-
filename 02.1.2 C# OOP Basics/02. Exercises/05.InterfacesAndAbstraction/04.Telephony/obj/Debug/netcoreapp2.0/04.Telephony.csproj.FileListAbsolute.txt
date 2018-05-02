@@ -1,0 +1,10 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\bin\Debug\netcoreapp2.0\04.Telephony.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\05.InterfacesAndAbstraction\04.Telephony\obj\Debug\netcoreapp2.0\04.Telephony.pdb

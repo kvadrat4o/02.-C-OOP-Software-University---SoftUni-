@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.0\04.BubbleSort.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.0\04.BubbleSort.pdb

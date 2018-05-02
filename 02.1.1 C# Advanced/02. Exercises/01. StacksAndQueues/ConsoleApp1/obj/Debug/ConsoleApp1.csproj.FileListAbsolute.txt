@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

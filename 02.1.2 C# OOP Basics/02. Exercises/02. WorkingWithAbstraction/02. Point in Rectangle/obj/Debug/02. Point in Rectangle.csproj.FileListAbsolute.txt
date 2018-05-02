@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\02. Point in Rectangle\bin\Debug\_02.Point_in_Rectangle.exe.config
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\02. Point in Rectangle\bin\Debug\_02.Point_in_Rectangle.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\02. Point in Rectangle\bin\Debug\_02.Point_in_Rectangle.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\02. Point in Rectangle\obj\Debug\02. Point in Rectangle.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\02. Point in Rectangle\obj\Debug\02. Point in Rectangle.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\02. Point in Rectangle\obj\Debug\_02.Point_in_Rectangle.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# OOP\2018\Exercises\02. WorkingWithAbstraction\02. Point in Rectangle\obj\Debug\_02.Point_in_Rectangle.pdb

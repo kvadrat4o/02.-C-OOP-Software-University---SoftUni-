@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.pdb

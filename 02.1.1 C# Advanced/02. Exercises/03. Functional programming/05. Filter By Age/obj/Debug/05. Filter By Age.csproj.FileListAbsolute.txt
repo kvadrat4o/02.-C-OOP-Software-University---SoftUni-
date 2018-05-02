@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Filter By Age\bin\Debug\_05.Filter_By_Age.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Filter By Age\bin\Debug\_05.Filter_By_Age.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Filter By Age\bin\Debug\_05.Filter_By_Age.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Filter By Age\obj\Debug\05. Filter By Age.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Filter By Age\obj\Debug\05. Filter By Age.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Filter By Age\obj\Debug\_05.Filter_By_Age.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Filter By Age\obj\Debug\_05.Filter_By_Age.pdb

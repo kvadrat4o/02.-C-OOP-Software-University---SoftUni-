@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.pdb

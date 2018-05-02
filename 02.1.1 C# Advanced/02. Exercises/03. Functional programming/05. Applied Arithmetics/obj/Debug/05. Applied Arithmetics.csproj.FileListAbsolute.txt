@@ -1,0 +1,6 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Applied Arithmetics\bin\Debug\_05.Applied_Arithmetics.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Applied Arithmetics\obj\Debug\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\05. Applied Arithmetics\obj\Debug\_05.Applied_Arithmetics.pdb

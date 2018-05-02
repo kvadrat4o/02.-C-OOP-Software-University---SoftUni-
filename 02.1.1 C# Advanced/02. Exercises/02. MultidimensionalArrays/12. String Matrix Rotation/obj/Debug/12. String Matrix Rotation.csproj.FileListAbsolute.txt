@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\_12.String_Matrix_Rotation.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\12. String Matrix Rotation.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\12. String Matrix Rotation.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\_12.String_Matrix_Rotation.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\_12.String_Matrix_Rotation.pdb

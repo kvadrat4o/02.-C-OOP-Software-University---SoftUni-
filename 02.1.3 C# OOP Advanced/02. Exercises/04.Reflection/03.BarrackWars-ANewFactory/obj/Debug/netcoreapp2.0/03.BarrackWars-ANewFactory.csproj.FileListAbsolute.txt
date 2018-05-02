@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\bin\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\03.BarrackWars-ANewFactory\obj\Debug\netcoreapp2.0\03.BarrackWars-ANewFactory.pdb

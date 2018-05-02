@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\bin\Debug\netcoreapp2.0\01. Math Operations.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\bin\Debug\netcoreapp2.0\01. Math Operations.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\bin\Debug\netcoreapp2.0\01. Math Operations.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\bin\Debug\netcoreapp2.0\01. Math Operations.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\bin\Debug\netcoreapp2.0\01. Math Operations.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\obj\Debug\netcoreapp2.0\01. Math Operations.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\obj\Debug\netcoreapp2.0\01. Math Operations.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\obj\Debug\netcoreapp2.0\01. Math Operations.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\obj\Debug\netcoreapp2.0\01. Math Operations.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\obj\Debug\netcoreapp2.0\01. Math Operations.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\06.Polymorphism\01. Math Operations\obj\Debug\netcoreapp2.0\01. Math Operations.pdb

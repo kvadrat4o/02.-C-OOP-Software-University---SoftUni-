@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\10. BasicQueueOperation\bin\Debug\_10.BasicQueueOperation.exe.config
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\10. BasicQueueOperation\bin\Debug\_10.BasicQueueOperation.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\10. BasicQueueOperation\bin\Debug\_10.BasicQueueOperation.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\10. BasicQueueOperation\obj\Debug\10. BasicQueueOperation.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\10. BasicQueueOperation\obj\Debug\10. BasicQueueOperation.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\10. BasicQueueOperation\obj\Debug\_10.BasicQueueOperation.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\Exercises\StacksAndQueues\10. BasicQueueOperation\obj\Debug\_10.BasicQueueOperation.pdb

@@ -1,0 +1,6 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\3. Squares in Matrix\bin\Debug\_3.Squares_in_Matrix.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\3. Squares in Matrix.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\_3.Squares_in_Matrix.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\3. Squares in Matrix\obj\Debug\_3.Squares_in_Matrix.pdb

@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\6. Target Practice\bin\Debug\_6.Target_Practice.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\6. Target Practice\bin\Debug\_6.Target_Practice.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\6. Target Practice\bin\Debug\_6.Target_Practice.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\6. Target Practice\obj\Debug\6. Target Practice.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\6. Target Practice\obj\Debug\6. Target Practice.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\6. Target Practice\obj\Debug\_6.Target_Practice.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\6. Target Practice\obj\Debug\_6.Target_Practice.pdb

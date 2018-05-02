@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\04. Treasure Map\bin\Debug\_04.Treasure_Map.exe.config
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\04. Treasure Map\bin\Debug\_04.Treasure_Map.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\04. Treasure Map\bin\Debug\_04.Treasure_Map.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\04. Treasure Map\obj\Debug\04. Treasure Map.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\04. Treasure Map\obj\Debug\04. Treasure Map.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\04. Treasure Map\obj\Debug\_04.Treasure_Map.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\04. Treasure Map\obj\Debug\_04.Treasure_Map.pdb

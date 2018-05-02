@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\02. C# OOP - Basics\2018\ExamPrep\Exam - 18 March 2018\Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb

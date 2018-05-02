@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\11. The Party Reservation Filter Module\bin\Debug\_11.The_Party_Reservation_Filter_Module.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\11. The Party Reservation Filter Module\bin\Debug\_11.The_Party_Reservation_Filter_Module.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\11. The Party Reservation Filter Module\bin\Debug\_11.The_Party_Reservation_Filter_Module.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\11. The Party Reservation Filter Module\obj\Debug\11. The Party Reservation Filter Module.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\11. The Party Reservation Filter Module\obj\Debug\11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\11. The Party Reservation Filter Module\obj\Debug\_11.The_Party_Reservation_Filter_Module.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Functional programming\11. The Party Reservation Filter Module\obj\Debug\_11.The_Party_Reservation_Filter_Module.pdb

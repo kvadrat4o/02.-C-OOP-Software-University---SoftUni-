@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\obj\Debug\netcoreapp2.0\07.TrafficLights.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\obj\Debug\netcoreapp2.0\07.TrafficLights.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\obj\Debug\netcoreapp2.0\07.TrafficLights.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\bin\Debug\netcoreapp2.0\07.TrafficLights.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\bin\Debug\netcoreapp2.0\07.TrafficLights.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\bin\Debug\netcoreapp2.0\07.TrafficLights.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\bin\Debug\netcoreapp2.0\07.TrafficLights.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\bin\Debug\netcoreapp2.0\07.TrafficLights.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\obj\Debug\netcoreapp2.0\07.TrafficLights.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\obj\Debug\netcoreapp2.0\07.TrafficLights.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\04.Reflection\07.TrafficLights\obj\Debug\netcoreapp2.0\07.TrafficLights.csprojResolveAssemblyReference.cache

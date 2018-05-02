@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\2. Diagonal Difference.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\2. Diagonal Difference.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.exe.config
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\_2.Diagonal_Difference.pdb
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\_2.Diagonal_Difference.exe
+E:\Coding\SoftUni\C# Advanced\Exercises\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\_2.Diagonal_Difference.pdb

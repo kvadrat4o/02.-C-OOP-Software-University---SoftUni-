@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\bin\Debug\netcoreapp2.0\P03_Scale.deps.json
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\bin\Debug\netcoreapp2.0\P03_Scale.runtimeconfig.json
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\bin\Debug\netcoreapp2.0\P03_Scale.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\bin\Debug\netcoreapp2.0\P03_Scale.dll
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\bin\Debug\netcoreapp2.0\P03_Scale.pdb
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\obj\Debug\netcoreapp2.0\P03_Scale.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\obj\Debug\netcoreapp2.0\P03_Scale.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\obj\Debug\netcoreapp2.0\P03_Scale.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\obj\Debug\netcoreapp2.0\P03_Scale.AssemblyInfo.cs
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\obj\Debug\netcoreapp2.0\P03_Scale.dll
+E:\Coding\SoftUni\C# OOP Advanced\Generics\Generics\P03_Scale\obj\Debug\netcoreapp2.0\P03_Scale.pdb

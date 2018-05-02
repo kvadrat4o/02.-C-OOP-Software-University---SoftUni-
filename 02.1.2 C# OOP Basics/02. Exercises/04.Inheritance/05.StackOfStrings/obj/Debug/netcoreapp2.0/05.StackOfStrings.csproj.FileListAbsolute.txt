@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\bin\Debug\netcoreapp2.0\05.StackOfStrings.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\Exercises\04.Inheritance\05.StackOfStrings\obj\Debug\netcoreapp2.0\05.StackOfStrings.pdb

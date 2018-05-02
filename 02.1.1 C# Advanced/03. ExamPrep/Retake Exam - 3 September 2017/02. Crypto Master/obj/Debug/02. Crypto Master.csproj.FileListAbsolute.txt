@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\02. Crypto Master\bin\Debug\_02.Crypto_Master.exe.config
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\02. Crypto Master\bin\Debug\_02.Crypto_Master.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\02. Crypto Master\bin\Debug\_02.Crypto_Master.pdb
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\02. Crypto Master\obj\Debug\02. Crypto Master.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\02. Crypto Master\obj\Debug\02. Crypto Master.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\02. Crypto Master\obj\Debug\_02.Crypto_Master.exe
+E:\Coding\03_ProfModules\C#\Fundamentials\C# Advanced\2018\ExamPrep\Exam Retake - 3 September 2017\02. Crypto Master\obj\Debug\_02.Crypto_Master.pdb

@@ -1,0 +1,11 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.0\02.ExtendedDatabase.deps.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.0\02.ExtendedDatabase.runtimeconfig.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.0\02.ExtendedDatabase.runtimeconfig.dev.json
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.0\02.ExtendedDatabase.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.0\02.ExtendedDatabase.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.0\02.ExtendedDatabase.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.0\02.ExtendedDatabase.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.0\02.ExtendedDatabase.AssemblyInfoInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.0\02.ExtendedDatabase.AssemblyInfo.cs
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.0\02.ExtendedDatabase.dll
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP - Advanced\2018\Exercises\05.UnitTesting\05.UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.0\02.ExtendedDatabase.pdb

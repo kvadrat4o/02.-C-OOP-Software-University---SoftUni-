@@ -1,0 +1,7 @@
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 11 July 2017\NeedForSpeed\NeedForSpeed\bin\Debug\NeedForSpeed.exe.config
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 11 July 2017\NeedForSpeed\NeedForSpeed\bin\Debug\NeedForSpeed.exe
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 11 July 2017\NeedForSpeed\NeedForSpeed\bin\Debug\NeedForSpeed.pdb
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 11 July 2017\NeedForSpeed\NeedForSpeed\obj\Debug\NeedForSpeed.csprojResolveAssemblyReference.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 11 July 2017\NeedForSpeed\NeedForSpeed\obj\Debug\NeedForSpeed.csproj.CoreCompileInputs.cache
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 11 July 2017\NeedForSpeed\NeedForSpeed\obj\Debug\NeedForSpeed.exe
+E:\Coding\03_ProfModules\C#\C# Fundamentials\C# OOP\2018\ExamPrep\Exam - 11 July 2017\NeedForSpeed\NeedForSpeed\obj\Debug\NeedForSpeed.pdb
